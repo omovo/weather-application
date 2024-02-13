@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("./cloud/app-background-\ clouds.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+
+   
+}
+
+.card{
+ background-color: rgb(12, 175, 120);
+ padding: 2em;
+ border-radius: 40px;
+ width: 400px;
+ margin: 1em;
+}
+
+.search{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.city{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+.search-input{
+    border: none;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.btn{
+    padding: 8px;
+    border-radius: 90px;
+}
+
+.btn:hover{
+    background-color: skyblue;
+}
