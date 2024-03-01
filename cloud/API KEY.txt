@@ -1,0 +1,11 @@
+
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=
+
+{API key}
+
+
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=6fc67abadd7f81dd1de5aebb7cf9ac00
+
+
+
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=6fc67abadd7f81dd1de5aebb7cf9ac00

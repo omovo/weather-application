@@ -44,3 +44,19 @@ body{
 .btn:hover{
     background-color: skyblue;
 }
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.description{
+    text-transform: capitalize;
+    margin-left: 10px;
+}
+
+.temp{
+    margin: 0;
+    margin-bottom: 18px;
+    font-size: 30px;
+}
